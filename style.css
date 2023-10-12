@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: firebrick;
+}
+.whole {
+    height: 100%;
+    width: 50%;
+     background-color: pink;
+}
+.lyrics {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: firebrick;
+}
+img {
+    width: 500px;
+    border-radius: 10px;
+    margin: 20px;
+}
